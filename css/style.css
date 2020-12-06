@@ -1,0 +1,24 @@
+body {
+    background-color:}
+
+.navbar{
+
+}
+
+.text-wrap {
+    float: left;
+    margin: 10px;
+}
+
+.container {
+    background-color: powderblue;
+}
+
+.container{
+    width: 400px;
+    background: yellow;
+}
+#floated{
+    float: left;
+    width: 150px;
+    background: red;
