@@ -18,7 +18,9 @@ Hi!
 
 * A sticky footer 
 
-**Comments**
+**Screenshot**
+
+![Screenshot](/assets/images/screenshot.png)
 
 
 Github Repository:
